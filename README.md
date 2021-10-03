@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bashhar
-- 👀 I’m interested in Triathlon and endurance sport. ( Also the computer and science's side  ( Golden cheetah, R ) ) 
+- 👀 I’m interested in Triathlon and endurance sport. ( computer and science side of it too ) 
 - 🌱 I’m currently learning Computer Science @ unamur 
 - 💞️ I’m looking to collaborate on my own programming skills 
 - 📫 How to reach me student@bash-art.net
